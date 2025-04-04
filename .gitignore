@@ -1,0 +1,18 @@
+# Compiled executable
+bin/server
+server
+
+# Object files
+*.o
+obj/*.o
+
+# Build directories (if you use them)
+build/
+bin/
+obj/
+
+# Editor/OS specific files
+.vscode/
+*.swp
+*~
+.DS_Store
